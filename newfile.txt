@@ -1,0 +1,1 @@
+This is a newfile added to the local repository
